@@ -18,6 +18,10 @@ public class Main {
         int suma = bolas.stream().mapToInt(Integer::intValue).sum();
         System.out.println("Suma de principales: " + suma);
         
+<<<<<<< HEAD
         System.out.println("Suerte en el sorteo!");
+=======
+        System.out.println("¡Suerte en el sorteo, DAM!");
+>>>>>>> feature/mensaje
     }
 }
