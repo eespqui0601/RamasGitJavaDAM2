@@ -23,5 +23,6 @@ public class Main {
 =======
         System.out.println("¡Suerte en el sorteo, DAM!");
 >>>>>>> feature/mensaje
+    System.out.println("Cambio realizado desde GitHub");
     }
 }
